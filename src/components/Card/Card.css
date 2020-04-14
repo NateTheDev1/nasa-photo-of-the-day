@@ -1,0 +1,19 @@
+.Card {
+  margin-top: 2%;
+  width: 100%;
+}
+
+img {
+  max-width: 400px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+
+.image-container p {
+  width: 40%;
+  margin-left: 5%;
+  font-size: 1.5rem;
+}
