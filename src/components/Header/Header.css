@@ -3,4 +3,18 @@
   display: flex;
   font-size: 1rem;
   justify-content: space-between;
+  color: white;
+  background: black;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 2%;
+  box-sizing: border-box;
+}
+
+.title {
+  color: #fc3d21;
+}
+
+h1 {
+  color: #fc3d21;
 }
