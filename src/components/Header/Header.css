@@ -1,4 +1,4 @@
-.header {
+/* .header {
   width: 100%;
   display: flex;
   font-size: 1rem;
@@ -17,4 +17,15 @@
 
 h1 {
   color: #fc3d21;
+} */
+
+h1 {
+  color: #fc3d21;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2%;
 }
