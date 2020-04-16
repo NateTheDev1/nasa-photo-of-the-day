@@ -40,3 +40,16 @@ a {
   align-items: center;
   flex-direction: column;
 }  */
+
+.Card-Container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-img {
+  width: 50%;
+}
+
+.card-2 {
+  width: 40%;
+}
